@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Jadieli%2C+Welcome+to+my+GitHub+profile.++%F0%9F%92%9E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=33B1E9&center=true&vCenter=true&random=false&width=1000&lines=Hello!+my+name+is+Jadieli%2C+Welcome+to+my+GitHub+profile+%F0%9F%92%9E)](https://git.io/typing-svg)
 <br>
 <br>
 
