@@ -9,13 +9,16 @@
 <img align="left" width=350 height=350 src=https://github.com/Jadizinhasl/Jadizinhasl/assets/159478942/fd23302e-0a87-4a05-82bf-8320a486da26/>
 <br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jadizinhasl&theme=discord-old-blurple&hide_border=falso&locale=pt_BR&mode=weekly&card_width=420"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jadizinhasl&theme=discord-old-blurple&hide_border=falso&locard_width=420"/>
 <br>
-
-
 
 ### Main skills:
-<img align="center" alt="Jadi-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<br>
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div><br/>
 <br> 
 <img width=100% bottom=60px src="https://github.com/Jadizinhasl/Jadizinhasl/assets/159478942/3cb2df90-fe3b-4a72-aba9-169494afc77c"/>
