@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img align="left" width=350 height=350 src=https://github.com/Jadizinhasl/Jadizinhasl/assets/159478942/fd23302e-0a87-4a05-82bf-8320a486da26/>
+<img align="left" width=320 height=320 src=https://github.com/Jadizinhasl/Jadizinhasl/assets/159478942/fd23302e-0a87-4a05-82bf-8320a486da26/>
 <br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jadizinhasl&theme=discord-old-blurple&hide_border=falso&locard_width=220"/>
