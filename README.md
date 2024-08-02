@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=33B1E9&center=true&vCenter=true&random=false&width=1000&lines=Hello!+my+name+is+Jadieli%2C+Welcome+to+my+GitHub+profile+%F0%9F%92%9E)](https://git.io/typing-svg)
 <br>
 <img align="center" src="https://backiee.com/static/wallpapers/560x315/368206.jpg"/>
-<br>
-<br>
-
 ### Main skills:
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
