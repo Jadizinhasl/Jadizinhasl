@@ -1,12 +1,7 @@
-<img width=100% bottom=60px src="https://github.com/Jadizinhasl/Jadizinhasl/assets/159478942/3cb2df90-fe3b-4a72-aba9-169494afc77c"/>
-<br>
-<br> 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=33B1E9&center=true&vCenter=true&random=false&width=1000&lines=Hello!+my+name+is+Jadieli%2C+Welcome+to+my+GitHub+profile+%F0%9F%92%9E)](https://git.io/typing-svg)
 <br>
+<img align="center" src="https://w0.peakpx.com/wallpaper/106/1007/HD-wallpaper-artistic-pixel-art.jpg"/>
 <br>
-
-<img align="left" width=320 height=320 src=https://github.com/Jadizinhasl/Jadizinhasl/assets/159478942/fd23302e-0a87-4a05-82bf-8320a486da26/>
 <br>
 
 ### Main skills:
@@ -18,4 +13,3 @@
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div><br/>
 <br> 
-<img width=100% bottom=60px src="https://github.com/Jadizinhasl/Jadizinhasl/assets/159478942/3cb2df90-fe3b-4a72-aba9-169494afc77c"/>
